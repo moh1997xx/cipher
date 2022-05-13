@@ -1,0 +1,18 @@
+{
+  "strict": {
+    "text-font-family": "Font-Regular",
+    "text-heading-1-font-family": "Font-Bold",
+    "text-heading-2-font-family": "Font-Bold",
+    "text-heading-3-font-family": "Font-Bold",
+    "text-heading-4-font-family": "Font-Bold",
+    "text-heading-5-font-family": "Font-Bold",
+    "text-heading-6-font-family": "Font-Bold",
+    "text-subtitle-1-font-family": "Font-SemiBold",
+    "text-subtitle-2-font-family": "Font-SemiBold",
+    "text-paragraph-1-font-family": "Font-Regular",
+    "text-paragraph-2-font-family": "Font-Regular",
+    "text-caption-1-font-family": "Font-Regular",
+    "text-caption-2-font-family": "Font-SemiBold",
+    "text-label-font-family": "Font-Bold"
+  }
+}
